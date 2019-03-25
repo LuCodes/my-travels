@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import Travel from "./Travel";
+import Travels from "./Travels";
 
 class App extends Component {
   render() {
@@ -17,7 +18,7 @@ class App extends Component {
       destination="France"
       ville="Paris"
 
-      image="http://s1.lprs1.fr/images/2016/07/20/5980563_1-0-439018451_1000x625.jpg"
+      image="https://www.parisinfo.com/var/otcp/sites/images/node_43/node_51/node_233/visuel-carrousel-dossier-ou-sortir-le-soir-a-paris-740x380-c-dr/16967596-1-fre-FR/Visuel-carrousel-dossier-Ou-sortir-le-soir-a-Paris-740x380-C-DR.jpg"
       />
 
       <Travel
@@ -26,7 +27,9 @@ class App extends Component {
       ville="Dijon"
 
       image="https://diplomeo-static.com/news-files/14000/14400/14457/Dijon%2C_France_%2826304675813%29.jpg"
-      />
+      /> 
+
+      <Travels/>
       </div>
       );
     }
