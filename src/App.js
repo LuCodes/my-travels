@@ -21,11 +21,11 @@ class App extends Component {
       />
 
       <Travel
-      distance2="195,3 km via A6"
-      destination2="France"
-      ville2="Dijon"
+      distance="195,3 km via A6"
+      destination="France"
+      ville="Dijon"
 
-      image2="https://diplomeo-static.com/news-files/14000/14400/14457/Dijon%2C_France_%2826304675813%29.jpg"
+      image="https://diplomeo-static.com/news-files/14000/14400/14457/Dijon%2C_France_%2826304675813%29.jpg"
       />
       </div>
       );
