@@ -18,7 +18,7 @@ class App extends Component {
       destination="France"
       ville="Paris"
 
-      image="https://www.parisinfo.com/var/otcp/sites/images/node_43/node_51/node_233/visuel-carrousel-dossier-ou-sortir-le-soir-a-paris-740x380-c-dr/16967596-1-fre-FR/Visuel-carrousel-dossier-Ou-sortir-le-soir-a-Paris-740x380-C-DR.jpg"
+      image=""
       />
 
       <Travel
@@ -28,6 +28,8 @@ class App extends Component {
 
       image="https://diplomeo-static.com/news-files/14000/14400/14457/Dijon%2C_France_%2826304675813%29.jpg"
       /> 
+
+
 
       <Travels/>
       </div>
